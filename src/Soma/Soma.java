@@ -1,5 +1,5 @@
 package Soma;
-import  javax.swing.*;
+import javax.swing.*;
 public class Soma {
     public static void main(String args[]){
         double num1, num2, resp = 0;
